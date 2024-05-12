@@ -1,2 +1,3 @@
 # My-java-Programe
-This is a school of Java programe
+This is a school of Java programe.
+
